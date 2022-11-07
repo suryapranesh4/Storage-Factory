@@ -1,4 +1,4 @@
-# StorageFactory
+# Storage-Factory
 
 
-Inheritance with virtual ovverride example Smart contract deploying + interacting other smart contract
+Inheritance with virtual override example , smart contract deployment , interacting with other smart contract
